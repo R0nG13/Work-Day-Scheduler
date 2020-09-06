@@ -17,3 +17,6 @@ Then click the save button for it to be saved in local storage
 https://r0ng13.github.io/Work-Day-Scheduler/
 
 ## ScreenShot
+
+Screen Shot 2020-09-06 at 6.25.02 PM.png
+
